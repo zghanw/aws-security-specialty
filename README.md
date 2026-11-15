@@ -1,5 +1,7 @@
 <div align="center">
 
+<img alt="AWS Certified Security - Specialty badge" src="docs/logo-readme.png" width="200">
+
 # SCS-C03 Practice
 
 Free practice questions and a timed mock exam for the **AWS Certified Security - Specialty (SCS-C03)** exam.<br>
